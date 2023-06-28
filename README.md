@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carollinaanderson
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning intro to Machine Learning 
-- 💞️ I’m looking to collaborate on EDA and ETL projects 
+- 💞️ I’m looking to collaborate jurimetrics projects 
 - 📫 How to reach me carollinaanderson@icloud.com
 
 <!---
