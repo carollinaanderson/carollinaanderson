@@ -4,7 +4,7 @@
 
 🌱 I’m currently diving into Machine Learning and Neural Works 
 
-💞️ I’m looking to collaborate on jurimetrics projects
+🖇 I’m looking to collaborate on jurimetrics projects
 
 📫 Reach me at carollinaanderson@icloud.com
 
@@ -16,7 +16,7 @@
 
 🌱 Atualmente, estou me aprofundando em Machine Learning e Redes Neurais
 
-💞️ Estou procurando colaborar em projetos de jurimetria
+🖇 Estou procurando colaborar em projetos de jurimetria
 
 📫 Entre em contato comigo pelo e-mail carollinaanderson@icloud.com
 
