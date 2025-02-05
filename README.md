@@ -11,7 +11,7 @@
 
 🔹 **Programming:** Python, SQL, Bash  
 🔹 **Data Engineering:** ETL, Data Pipelines, Airflow, Feature Engineering  
-🔹 **Cloud & Big Data:** AWS (Athena, S3, QuickSight), Snowflake, Databricks  
+🔹 **Cloud & Big Data:** AWS, Snowflake, Databricks  
 🔹 **Machine Learning:** Scikit-Learn, XGBoost, Regression, Random Forest  
 🔹 **DevOps & CI/CD:** Git, GitHub Actions, Docker  
 🔹 **Currently Learning:** GoLang, LangChain (LLMs & AI)  
