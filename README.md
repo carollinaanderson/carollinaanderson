@@ -1,24 +1,26 @@
-👋 Hi, I’m @carollinaanderson
+# 👋 Hi, I'm **Carolinna Anderson**! 🚀  
 
-👀 I’m passionate about Data Science
+**Data Engineer | Data Scientist | Python | SQL | ETL | AWS | Snowflake | Databricks**  
 
-🌱 I’m currently diving into Machine Learning and Neural Works 
+📍 Campo Grande, Brazil 🇧🇷 | 📧 andersoncarolinna@icloud.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/carollinaanderson)  
 
-🖇 I’m looking to collaborate on jurimetrics projects
+---
 
-📫 Reach me at carollinaanderson@icloud.com
+## 🛠️ **Technologies & Skills**  
 
-----------------------------------------------------------------
+🔹 **Programming:** Python, SQL, Bash  
+🔹 **Data Engineering:** ETL, Data Pipelines, Airflow, Feature Engineering  
+🔹 **Cloud & Big Data:** AWS (Athena, S3, QuickSight), Snowflake, Databricks  
+🔹 **Machine Learning:** Scikit-Learn, XGBoost, Regression, Random Forest  
+🔹 **DevOps & CI/CD:** Git, GitHub Actions, Docker  
+🔹 **Currently Learning:** GoLang, LangChain (LLMs & AI)  
 
-👋 Oi, sou @carollinaanderson
+---
 
-👀 Sou apaixonada por Data Science
+💡 *Passionate about data-driven solutions, automation, and AI innovation.*  
+📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/carollinaanderson)  
 
-🌱 Atualmente, estou me aprofundando em Machine Learning e Redes Neurais
-
-🖇 Estou procurando colaborar em projetos de jurimetria
-
-📫 Entre em contato comigo pelo e-mail carollinaanderson@icloud.com
 
 <!---
 carollinaanderson/carollinaanderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
