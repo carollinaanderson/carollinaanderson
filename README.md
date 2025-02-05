@@ -14,12 +14,13 @@
   </tr>
 </table>
 
-<br> <!-- Pula uma linha -->
+##
 
-<!-- Exibindo os ícones inline -->
-<i class="devicon-python-plain-wordmark colored" style="display: inline-block; margin-right: 10px;"></i>
-<i class="devicon-azuresqldatabase-plain" style="display: inline-block; margin-right: 10px;"></i>
-<i class="devicon-amazonwebservices-plain-wordmark" style="display: inline-block;"></i>
+<a hfref="i class="devicon-python-plain"></i>></a> 
+
+          
+
+
 
 
   
