@@ -2,7 +2,7 @@
 
 **Data Engineer | Data Scientist | Python | SQL | ETL | AWS | Snowflake | Databricks**  
 
-📍 Campo Grande, Brazil 🇧🇷 | 📧 andersoncarolinna@icloud.com  
+📧 andersoncarolinna@icloud.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/carollinaanderson)  
 
 ---
