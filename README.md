@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Carolinna Anderson**! 🚀  
 
 - **Data Engineer | Data Scientist | Python | SQL | ETL | AWS | Snowflake | Databricks**
-- Studying Go and LangChain
+
 
 <table>
   <tr>
