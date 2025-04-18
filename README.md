@@ -2,23 +2,6 @@
 
 - **Data Engineer | Data Scientist | Python | SQL | ETL | AWS | Snowflake | Databricks**
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=carollinaanderson&show_icons=true&theme=dracula" />
-    </td>
-    <td>
-
-##
-
-<a hfref="i class="devicon-python-plain"></i>></a> 
-
-          
-
-
-
-
   
 ## 🛠️ **Technologies & Skills**  
 
