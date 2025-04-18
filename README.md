@@ -9,10 +9,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=carollinaanderson&show_icons=true&theme=dracula" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinaanderson&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
 
 ##
 
