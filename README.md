@@ -14,7 +14,7 @@
 ---
 
 💡 *Passionate about data-driven solutions, automation, and AI innovation.*  
-📫 **Let's connect! My e-mail is andersoncarolinna@icloud.com ** 
+📫 **Let's connect! My e-mail is andersoncarolinna@icloud.com 
 
 <!---
 carollinaanderson/carollinaanderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
