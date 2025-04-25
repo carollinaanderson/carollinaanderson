@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Cárol **! 🚀  
+# 👋 Hello, I'm Cárol! 🚀  
 
 - **Data Engineer | Data Scientist | Python | SQL | ETL | AWS | Snowflake | Databricks**
 
