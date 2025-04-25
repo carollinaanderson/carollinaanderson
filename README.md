@@ -5,7 +5,7 @@
   
 ## 🛠️ **Technologies & Skills**  
 
-🔹 **Programming:** Python, SQL, Bash  
+🔹 **Programming:** Python, SQL, R  
 🔹 **Data Engineering:** ETL, Data Pipelines, Feature Engineering  
 🔹 **Cloud & Big Data:** AWS, Databricks  
 🔹 **Machine Learning:** Scikit-Learn, XGBoost, Regression, Random Forest, TensorFlow, PyTorch  
