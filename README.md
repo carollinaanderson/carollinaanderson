@@ -14,9 +14,9 @@
 ---
 
 💡 *Passionate about data-driven solutions, automation, and AI innovation.*  
-📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/carollinaanderson)  
+📫 **Let's connect! My e-mail is andersoncarolinna@icloud.com ** 
 
 <!---
 carollinaanderson/carollinaanderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. [LinkedIn](https://www.linkedin.com/in/carollinaanderson)  
 --->
