@@ -10,7 +10,6 @@
 🔹 **Cloud & Big Data:** AWS, Databricks  
 🔹 **Machine Learning:** Scikit-Learn, XGBoost, Regression, Random Forest, TensorFlow, PyTorch  
 🔹 **DevOps & CI/CD:** Git, GitHub Actions, Docker  
-🔹 **Currently Learning:** GoLang, LangChain (LLMs & AI)  
 
 ---
 
