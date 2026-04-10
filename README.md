@@ -1,4 +1,3 @@
-<---! my stunning GitHub home  --->
 
 `<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=hey,%20i'm%20cárol%20✨&fontSize=52&fontColor=22ff7b&fontAlignY=38&desc=data%20scientist%20%26%20engineer%20%F0%9F%87%A7%F0%9F%87%B7&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" />
 
