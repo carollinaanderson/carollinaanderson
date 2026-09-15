@@ -41,7 +41,6 @@ carol = {
 | Project | What it is | Stack |
 |---|---|---|
 | [**task-manager-api-**](https://github.com/carollinaanderson/task-manager-api-) | Production-shaped REST API — Clean Architecture, JWT, Postgres, CI/CD, DevSecOps | Python · FastAPI · Docker · GitHub Actions |
-| **Marketing OS (AIgency)** | 10-agent marketing automation system (sanitized public demo pending) | Python · MCP · Notion API |
 | [**stem-obsidian**](https://github.com/carollinaanderson/stem-obsidian) | STEM knowledge vault — Rust, Python, cybersecurity | Obsidian · Markdown |
 | **Kaggle path** | Full micro-course journey: Python → ML → Pandas → visualization | Python · Scikit-Learn · Seaborn |
 | **Notion template system** | TOEFL · Scholarship · Jobseeker systems (sellable products) | Notion · templates |
