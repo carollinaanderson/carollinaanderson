@@ -20,7 +20,7 @@
 
 ```python
 carol = {
-    "name"        : "Carolinna Anderson",
+    "name"        : "Carollina Anderson",
     "location"    : "Campo Grande, MS · Brazil",
     "identity"    : "Data Scientist | ML + MLOps / DevOps",
     "contact"     : "andersoncarolinna@icloud.com",
