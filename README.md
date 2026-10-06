@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=hey,%20i'm%20c%C3%A1rol%20%E2%9C%A8&fontSize=52&fontColor=22ff7b&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%2B%20MLOps%20%2F%20DevOps&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=hey,%20i'm%20c%C3%A%20%E2%9C%A8&fontSize=52&fontColor=22ff7b&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%2B%20MLOps%20%2F%20DevOps&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" />
 
 [![Python](https://img.shields.io/badge/Python-22ff7b?style=for-the-badge&logo=python&logoColor=000000)](https://python.org/)
 [![SQL](https://img.shields.io/badge/SQL-d0ff00?style=for-the-badge&logo=postgresql&logoColor=000000)](https://github.com/carollinaanderson)
