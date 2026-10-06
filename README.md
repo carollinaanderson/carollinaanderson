@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=hey,%20i'm%20c%C3%A1rol%20%E2%9C%A8&fontSize=52&fontColor=22ff7b&fontAlignY=38&desc=AI%20creative%20producer%20%26%20automation%20builder&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=hey,%20i'm%20c%C3%A1rol%20%E2%9C%A8&fontSize=52&fontColor=22ff7b&fontAlignY=38&desc=Data%20Scientist%20%7C%20Predictive%20Modeling%20%26%20Forecasting&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" />
 
 [![Python](https://img.shields.io/badge/Python-22ff7b?style=for-the-badge&logo=python&logoColor=000000)](https://python.org/)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-8b53fe?style=for-the-badge&logo=openai&logoColor=ffffff)](https://github.com/carollinaanderson)
-[![MCP](https://img.shields.io/badge/MCP_Servers-ff1de9?style=for-the-badge&logo=modelcontextprotocol&logoColor=ffffff)](https://github.com/carollinaanderson)
 [![SQL](https://img.shields.io/badge/SQL-d0ff00?style=for-the-badge&logo=postgresql&logoColor=000000)](https://github.com/carollinaanderson)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![AWS](https://img.shields.io/badge/AWS-8b53fe?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-22ff7b?style=for-the-badge&logo=docker&logoColor=000000)](https://docker.com/)
-[![Rust](https://img.shields.io/badge/Rust-ff1de9?style=for-the-badge&logo=rust&logoColor=ffffff)](https://rust-lang.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 
 <br/>
 
-> 🪄 _I build automation systems end-to-end — architecture, code, deployment,
-> docs — and I teach beautifully. AI × data × creative._
+> 📊 _Data Scientist — I turn messy operational data into predictive models with measurable business impact. Python × SQL × forecasting × MLOps._
 
 </div>
 
@@ -23,33 +21,35 @@
 ```python
 carol = {
     "name"        : "Carolinna Anderson",
-    "location"    : "Campo Grande, MS · Brazil 🇧🇷",
-    "identity"    : "AI Creative Producer & Automation Builder",
+    "location"    : "Campo Grande, MS · Brazil",
+    "identity"    : "Data Scientist | Predictive Modeling, Forecasting, CX Analytics",
     "contact"     : "andersoncarolinna@icloud.com",
-    "languages"   : ["Python", "SQL", "Rust (building)", "C#/.NET Core"],
-    "ai_stack"    : ["AI agents & LLM orchestration", "MCP servers", "prompt engineering", "automation pipelines"],
-    "data_stack"  : ["Pandas", "AWS (S3, Athena, Lambda, Glue, QuickSight)", "Databricks", "Snowflake"],
-    "focus"       : "automations that run themselves, products that sell while I sleep",
-    "currently"   : "building a 6-agent career system + AI video MVP 🚀",
+    "core"        : ["Python", "SQL", "Scikit-Learn", "XGBoost", "Forecasting", "Classification"],
+    "mlops"       : ["Databricks / Spark", "MLflow", "AWS (S3, Athena, Glue, QuickSight, SageMaker)", "Docker", "GitHub Actions"],
+    "domain"      : ["contact-center ops", "workforce management", "retention", "routing", "customer experience"],
+    "proof"       : ["98% -> 0.2% data quality, 20k+ docs", "42 ML projects end-to-end", "80+ staff trained via internal guide"],
+    "currently"   : "building 2 capstones: call-volume forecasting + churn analytics",
 }
 ```
 
 ---
 
-## 🗂️ featured projects
+## 🎯 featured for Data Scientist roles — business question first
 
-| Project | What it is | Stack |
+| Project | Business question | Result |
 |---|---|---|
-| [**task-manager-api-**](https://github.com/carollinaanderson/task-manager-api-) | Production-shaped REST API — Clean Architecture, JWT, Postgres, CI/CD, DevSecOps | Python · FastAPI · Docker · GitHub Actions |
-| [**stem-obsidian**](https://github.com/carollinaanderson/stem-obsidian) | STEM knowledge vault — Rust, Python, cybersecurity | Obsidian · Markdown |
-| **Kaggle path** | Full micro-course journey: Python → ML → Pandas → visualization | Python · Scikit-Learn · Seaborn |
-| **Notion template system** | TOEFL · Scholarship · Jobseeker systems (sellable products) | Notion · templates |
+| [**call-volume-forecast**](https://github.com/carollinaanderson) _(building)_ | How many contacts arrive next week, how many agents needed? | SARIMA/Prophet/XGB, backtest MAPE/WAPE vs naive, staffing math — _repo coming_ |
+| [**churn-cx-analytics**](https://github.com/carollinaanderson) _(building)_ | Which customers will leave, and why? | LogReg vs RF vs XGBoost, ROC-AUC, SHAP, retention math — _repo coming_ |
+| [**law-firm-ml-case-study**](https://github.com/carollinaanderson) _(sanitized, NDA-safe)_ | Predict delays from 20k+ processes? | RF/XGB, validation 98% -> 0.2%, no raw data — _sanitized case_ |
+| [**task-manager-api**](https://github.com/carollinaanderson/task-manager-api) | How to serve models behind a tested API? | FastAPI + Postgres + Docker + CI + pytest — serving pattern for `/predict` |
 
-## 🧭 portfolio journey (building in public)
+> NDA note: work data is private. Public repos show the same pattern on public data. I can whiteboard the private flow.
 
-- 🏗️ **2026:** multi-agent career system · AI Video MVP (beta 23/09) · template marketplace
-- 🦀 **Learning:** Rust/Dioxus fullstack app · IBM DevOps certification path
-- 📊 **Data engineering:** ingestion pipelines (webhook → queue → workers → Postgres → Obsidian → Notion)
+## 📚 ML trail
+
+- `handson-ml2` · `kaggle_intro_to_machine_learning` · `kaggle_pandas` — coursework, own notebooks
+- `olist-ml-models` (fork of TeoMeWhy) — studied Feature Store -> ABT -> MLflow pattern, applied privately
+- `data-collect` — web scraping & pipelines (Python, BeautifulSoup, Requests)
 
 ---
 
@@ -57,7 +57,6 @@ carol = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carollinaanderson)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/carolinvictori7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22ff7b?style=for-the-badge&logo=linktree&logoColor=000000)](https://github.com/carollinaanderson/carollinaanderson-)
 
-> ⚡ _Open to international remote roles at the marketing × creative × AI
-> intersection — and to building your automations._
+> ⚡ _Open to remote Data Scientist roles in Brazil — forecasting, classification, retention, CX analytics._
+> 🎨 _Curator / AI artist work lives on Behance._
