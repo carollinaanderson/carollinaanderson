@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=hey,%20I%27m%20C%C3%A1&fontSize=52&fontColor=22ff7b&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%2B%20MLOps%20%2F%20DevOps&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Python](https://img.shields.io/badge/Python-22ff7b?style=for-the-badge&logo=python&logoColor=000000)](https://python.org/)
-[![SQL](https://img.shields.io/badge/SQL-d0ff00?style=for-the-badge&logo=postgresql&logoColor=000000)](https://github.com/carollinaanderson)
+[![Python](https://img.shields.io/badge/Python-14532D?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![SQL](https://img.shields.io/badge/SQL-1A4D2E?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/carollinaanderson)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![AWS](https://img.shields.io/badge/AWS-8b53fe?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-22ff7b?style=for-the-badge&logo=docker&logoColor=000000)](https://docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-14532D?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 [![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 <br/>
