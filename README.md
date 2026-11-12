@@ -37,7 +37,7 @@ carol = {
 
 ---
 
-## 📌 pinned projects
+## 📌 featured projects
 
 | repo | what it proves | stack |
 |---|---|---|
